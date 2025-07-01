@@ -32,7 +32,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/newsnow-app.git
+   git clone https://github.com/your-username/News-app.git
    cd newsnow-app
    ```
 
