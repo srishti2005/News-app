@@ -59,10 +59,9 @@
 ## 📁 File Structure
 
 ```
-newsnow-app/
+News-app/
 │
-├── index.html        # Main HTML file with all logic and styles
-├── assets/           # (Optional) Folder for images or icons
+├── index.html        # Main HTML file with all logic and styles         
 └── README.md         # Project documentation
 ```
 
@@ -91,6 +90,3 @@ You can deploy this easily on:
 
 ---
 
-## 📃 License
-
-MIT License © \[Your Name]
